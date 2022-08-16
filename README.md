@@ -1,16 +1,68 @@
-### Hi there 👋
+## 👋 Hi I'm Ceefar  
+### 🤓 Aspiring Jnr Data Engineer, Qualified Senior Nerd  
 
-<!--
-**ceefar/ceefar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am _Courtney Farquharson_, but everyone calls me Ceefar. 
 
-Here are some ideas to get you started:
+<div>
+  <img src="https://thehardgainerbible.com/wp-content/uploads/2020/02/meselect2.png" width="300"/>
+</div> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :man_technologist: Snapshot :
+
+- :telescope: I aspire to break into Data Engineering, but I'm also interested in Data Analytics & Full Stack Software Development.
+- :seedling: I'm an exceptional problem solver & adept learner, with a Mensa Graded IQ of 131 (Top 2.7%).
+- :zap: In my free time I work tirelessly on personal projects to accelerate my development as a programmer (60+ hours per week)
+- 💻 My skillset involves Python, Mathematics, SQL/MySQL/PostgreSQL, AWS(lambda,s3,redshift), Docker, Git, Streamlit, C++, & More
+- :mailbox: If you're hiring, or just want to say hi,  you can get in contact with me at rob.farq@gmail.com
+  
+   
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ceefar&theme=calm)](https://git.io/streak-stats)
+  
+  
+---
+
+
+### 😍 What am I up to?
+
+I've put together a load of projects in a short time, but here is are the two you should check out from my current portfolio  
+  
+**NHS Wait Times**  
+Tool to assist patients in finding out how long wait times are from referral to specialist appointments for all departments and hospitals in England. Project topics include   
+- Check it out [HERE](https://ceefar-nhs-wait-times-app-home-v3-w2u08j.streamlitapp.com/)  
+- ETL for extracting large publicly available NHS datasets, cleaning the data, and loading it to my own hosted database
+- Optimising for speed with Pandas allows for entire ETL (extract CSV, clean dataset, insert to personal web hosted database) in 0.5s for 4k+ rows and a total of 44k+ items
+- Webscraping and pulling live data from a hidden NHS API in json format
+- Utilising Google APIs for Geocoding and Maps functionality 
+- Project still currently in development, have only been working on this for a week but have already made significant progress  
+    
+**ETL Dashboard**  
+Data visualisation for Data Engineering Bootcamp Project  
+- Check it out [HERE](https://ceefar-etl-dashboard-app-insights-7xqywv.streamlitapp.com/)  
+- Be sure to have a look at the **Portfolio Mode**, which will allow you to see the live code update the dynamic queries based on the user selected inputs  
+  
+  
+---
+  
+### :sunglasses: A bit about me  
+  
+A tireless worker, with unrivaled determination and an innate passion for learning plus all things tech, alongside being a strong communicator with a background in performing having been a member of the _National Theatre_, and have a deep understanding of business value from past entreprenureal ventures. I excel at problem solving and aquire skills at lightning speed due to my genuine joy of learning, and my absolute obsession with technology.
+
+I studied game software developed at _Sheffield Hallam University_ and recently completed the _Generation Data Engineering Bootcamp_. Since I took quite a few years away from programming after my time at University I'm looking to get back into the STEM profession in a Jnr role, though certainly wouldn't shy away from any given opportunity as I find I am at my best when I push myself to achieve my potential.
+  
+  
+---
+  
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=ceefar&style=for-the-badge&color=orange" alt=""/>
+  <img alt='' src='https://img.shields.io/badge/Mensa_IQ - 131-100000?style=for-the-badge&logo=&logoColor=white&labelColor=626262&color=3206AD'/>
+</div>
+<div>
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCEo08PjhwFLc4Je2OWmkbAg&key=AIzaSyC52e2XmT5tLchD4oPB7AqUf3aa1YZ3ysc&style=for-the-badge"/>
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCEo08PjhwFLc4Je2OWmkbAg&key=AIzaSyC52e2XmT5tLchD4oPB7AqUf3aa1YZ3ysc&style=for-the-badge"/>
+</div>
+
+<div id="header">
+  <img src="https://thehardgainerbible.com/wp-content/uploads/2022/05/yes_i_made_this_myself-1.gif" width="200"/>
+</div>  
+  
