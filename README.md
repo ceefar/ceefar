@@ -27,6 +27,7 @@ I'm _Courtney Farquharson_, but everyone calls me Ceefar.
 I've put together a load of projects in a short time, but here is are the two you should check out from my current portfolio  
   
 **NHS Wait Times**  
+<sup>[ api | data-cleaning | etl | data-analysis | async | web scraping | optimisation | mysql | python | streamlit | echarts ]</sup>    
 Tool to assist patients in finding out how long wait times are from referral to specialist appointments for all departments and hospitals in England. Project topics include   
 - Check it out [HERE](https://ceefar-nhs-wait-times-app-home-v3-w2u08j.streamlitapp.com/)  
 - ETL for extracting large publicly available NHS datasets, cleaning the data, and loading it to my own hosted database
