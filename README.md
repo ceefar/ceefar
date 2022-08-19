@@ -30,11 +30,12 @@ I've put together a load of projects in a short time, but here is are the two yo
 Tool to assist patients in finding out how long wait times are from referral to specialist appointments for all departments and hospitals in England. Project topics include   
 - Check it out [HERE](https://ceefar-nhs-wait-times-app-home-v3-w2u08j.streamlitapp.com/)  
 - ETL for extracting large publicly available NHS datasets, cleaning the data, and loading it to my own hosted database
-- Optimising for speed with Pandas allows for entire ETL (extract CSV, clean dataset, insert to personal web hosted database) in 0.5s for 4k+ rows and a total of 44k+ items
-- Webscraping and pulling live data from a hidden NHS API in json format
-- Utilising Google APIs for Geocoding and Maps functionality 
-- Project still currently in development, have only been working on this for a week but have already made significant progress  
+- Optimised for speed using Asyncio, Pandas, prepared statements, & bulk inserts allows for entire ETL (extract CSV, clean dataset, insert to my web hosted db) in 0.5s for table with 44,616 items, and 2.2s for table with 482,783 items
+- Webscraping and pulling live data from a hidden NHS API in json format, plus utilising Google Geocode & Maps APIs
+- Various data analysis (using numpy, statistics, itertools, collections) and data visualisations with eCharts & Altair
+- Project still currently in development, have only been working on this for ~1 week but have already made significant progress  
     
+
 **ETL Dashboard**  
 Data visualisation for Data Engineering Bootcamp Project  
 - Check it out [HERE](https://ceefar-etl-dashboard-app-insights-7xqywv.streamlitapp.com/)  
