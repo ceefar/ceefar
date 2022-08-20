@@ -1,4 +1,4 @@
-## 👋 Hi I'm Ceefar  
+## 👋 Hello World, I'm Ceefar  
 ### 🤓 Aspiring Jnr Data Engineer, Qualified Senior Nerd  
 
 I'm _Courtney Farquharson_, but everyone calls me Ceefar. 
