@@ -32,7 +32,8 @@ Tool to assist patients in finding out how long wait times are from referral to 
 - Check it out [HERE](https://ceefar-nhs-wait-times-app-home-gq8tni.streamlitapp.com/)  
 - ETL for extracting large publicly available NHS datasets, cleaning the data, and loading it to my own hosted database
 - Optimised for speed using Asyncio, Pandas, prepared statements, & bulk inserts allows for entire ETL (extract CSV, clean dataset, insert to my web hosted db) in 0.5s for table with 44,616 items, and 2.2s for table with 482,783 items
-- Webscraping and pulling live data from a hidden NHS API in json format, plus utilising Google Geocode & Maps APIs
+- Pulls live data from a *hidden* NHS API in json format, plus utilises Google Geocode & Maps APIs (+more!)
+- Automatically maintains historical data through SQL triggers, view back visualised trends in each departments data history 
 - Various data analysis (using numpy, statistics, itertools, collections) and data visualisations with eCharts & Altair
 - Project still currently in development, have only been working on this for ~1 week but have already made significant progress  
     
