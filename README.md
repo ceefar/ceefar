@@ -61,8 +61,9 @@ I studied game software developed at _Sheffield Hallam University_ and recently 
   <img alt='' src='https://img.shields.io/badge/Mensa_IQ - 131-100000?style=for-the-badge&logo=&logoColor=white&labelColor=626262&color=3206AD'/>
 </div>
 <div>
- <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCEo08PjhwFLc4Je2OWmkbAg&key=AIzaSyC52e2XmT5tLchD4oPB7AqUf3aa1YZ3ysc&style=for-the-badge"/>
+<!-- <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCEo08PjhwFLc4Je2OWmkbAg&key=AIzaSyC52e2XmT5tLchD4oPB7AqUf3aa1YZ3ysc&style=for-the-badge"/>
  <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCEo08PjhwFLc4Je2OWmkbAg&key=AIzaSyC52e2XmT5tLchD4oPB7AqUf3aa1YZ3ysc&style=for-the-badge"/>
+-->
 </div>
 
 <div id="header">
