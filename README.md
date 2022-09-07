@@ -30,7 +30,7 @@ I've put together a load of projects in a short time, but here is are the two yo
 <sup>[ api | data-cleaning | etl | data-analysis | async | web scraping | optimisation | mysql | python | streamlit | echarts ]</sup>    
 Tool to assist patients in finding out how long wait times are from referral to specialist appointments for all departments and hospitals in England. Project topics include   
 - Check it out Here -> [WebApp](https://ceefar-nhs.streamlitapp.com/) [(Repo)](https://github.com/ceefar/NHS_wait_times)  
-[![has-fresh-nhs-data](https://github.com/ceefar/NHS_wait_times/actions/workflows/confirm_data_or_run_etl.yml/badge.svg?event=push)](https://github.com/ceefar/NHS_wait_times/actions/workflows/confirm_data_or_run_etl.yml)
+[![has-fresh-nhs-data](https://github.com/ceefar/NHS_wait_times/actions/workflows/confirm_data_or_run_etl.yml/badge.svg?event=push)](https://github.com/ceefar/NHS_wait_times/actions/workflows/confirm_data_or_run_etl.yml) [![has-fresh-nhs-data](https://github.com/ceefar/NHS_wait_times/actions/workflows/confirm_data_or_run_etl.yml/badge.svg?event=schedule)](https://github.com/ceefar/NHS_wait_times/actions/workflows/confirm_data_or_run_etl.yml)  
 - ETL for extracting large publicly available NHS datasets, cleaning the data, and loading it to my own hosted database
 - Optimised for speed using Asyncio, Pandas, prepared statements, & bulk inserts allows for entire ETL (extract CSV, clean dataset, insert to my web hosted db) in 0.5s for table with 44,616 items, and 2.2s for table with 482,783 items
 - Pulls live data from a *hidden* NHS API in json format, plus utilises Google Geocode & Maps APIs (+more!)
