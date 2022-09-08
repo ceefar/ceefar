@@ -27,7 +27,7 @@ I'm _Courtney Farquharson_, but everyone calls me Ceefar.
 I've put together a load of projects in a short time, but here is are the two you should check out from my current portfolio  
   
 **NHS Wait Times**  
-<sup>[ api | data-cleaning | etl | data-analysis | async | web scraping | optimisation | mysql | python | streamlit | echarts ]</sup>    
+<sup>[ api | data-cleaning | etl | data-analysis | async | web scraping | optimisation | mysql | python | streamlit | echarts | cicd | github-actions ]</sup>    
 Tool to assist patients in finding out how long wait times are from referral to specialist appointments for all departments and hospitals in England. Project topics include   
 - Check it out Here -> [WebApp](https://ceefar-nhs.streamlitapp.com/) [(Repo)](https://github.com/ceefar/NHS_wait_times)  
 [![has-fresh-nhs-data](https://github.com/ceefar/NHS_wait_times/actions/workflows/confirm_data_or_run_etl.yml/badge.svg?event=push)](https://github.com/ceefar/NHS_wait_times/actions/workflows/confirm_data_or_run_etl.yml) [![has-fresh-nhs-data](https://github.com/ceefar/NHS_wait_times/actions/workflows/confirm_data_or_run_etl.yml/badge.svg?event=schedule)](https://github.com/ceefar/NHS_wait_times/actions/workflows/confirm_data_or_run_etl.yml) [![has-acceptable-data-completeness](https://github.com/ceefar/NHS_wait_times/actions/workflows/run_pytest_on_db_dataset.yml/badge.svg?branch=main&event=push)](https://github.com/ceefar/NHS_wait_times/actions/workflows/run_pytest_on_db_dataset.yml)  
