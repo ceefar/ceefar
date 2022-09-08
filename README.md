@@ -37,8 +37,8 @@ Tool to assist patients in finding out how long wait times are from referral to 
 - Pulls live data from a *hidden* NHS API in json format, plus utilises Google Geocode & Maps APIs (+more!)
 - Automatically maintains historical data through MySQL triggers, view back visualised trends in each departments data history 
 - Various data analysis (using numpy, statistics, itertools, collections) and data visualisations with eCharts & Altair
-- Basic CI/CD pipeline ensures no touch operation by running the hidden api daily to ensure data fresh and historical trends are accurate 
-- CI/CD pipeline now includes pytest confirmation of basic data completeness
+- Basic CI/CD pipeline ensures no touch operation by running the ETL daily to ensure data fresh and historical trends are accurate 
+- CI/CD pipeline now includes pytest confirmation of basic data completeness across multiple tables
 - Project still currently in development, have only been working on this for ~1 week but have already made significant progress  
     
 
