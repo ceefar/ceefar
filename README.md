@@ -39,7 +39,7 @@ Tool to assist patients in finding out how long wait times are from referral to 
 - Various data analysis (using numpy, statistics, itertools, collections) and data visualisations with eCharts & Altair
 - Basic CI/CD pipeline ensures no touch operation by running the ETL daily to ensure data fresh and historical trends are accurate 
 - CI/CD pipeline now includes pytest confirmation of basic data completeness across multiple tables
-- Project still currently in development, have only been working on this for ~1 week but have already made significant progress  
+- Project nearing completion of discovery phase, will shortly be starting refactoring 
     
 
 **ETL Dashboard**  
