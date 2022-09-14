@@ -34,12 +34,12 @@ Tool to assist patients in finding out how long wait times are from referral to 
   
 - ETL for extracting large publicly available NHS datasets, cleaning the data, and loading it to my own hosted database
 - Optimised for speed using Asyncio, Pandas, prepared statements, & bulk inserts allows for entire ETL (extract CSV, clean dataset, insert to my web hosted db) in 0.5s for table with 44,616 items, and 2.2s for table with 482,783 items
-- Pulls live data from a *hidden* NHS API in json format, plus utilises Google Geocode & Maps APIs (+more!)
+- Pulls live data from a *hidden* NHS API in json format, plus utilises Google Geocode & Maps APIs (+more!) 
 - Automatically maintains historical data through MySQL triggers, view back visualised trends in each departments data history 
 - Various data analysis (using numpy, statistics, itertools, collections) and data visualisations with eCharts & Altair
 - Basic CI/CD pipeline ensures no touch operation by running the ETL daily to ensure data fresh and historical trends are accurate 
-- CI/CD pipeline now includes pytest confirmation of basic data completeness across multiple tables
-- Project nearing completion of discovery phase, will shortly be starting refactoring 
+- Additional NEW CI/CD integration includes unittesting, improved v2_concept db schema, and quality assurance on data completeness
+- Project nearing completion of discovery phase, will shortly be starting refactoring to v2_concept (take a peek in the repo!)
     
 
 **ETL Dashboard**  
