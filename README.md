@@ -9,7 +9,7 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
 
 ### :man_technologist: Snapshot :
 
-- :telescope: I aspire to break into Data Engineering, but I'm also interested in Data Analytics & Full Stack Software Development.
+- :telescope: I aspire to break into Data Engineering, but I'm also very interested in Software Development & Data Analytics.
 - :seedling: I'm an exceptional problem solver & adept learner, with a Mensa Graded IQ of 131 (Top 2.7%).
 - :zap: In my free time I work tirelessly on personal projects to accelerate my development as a programmer (60+ hours per week)
 - 💻 My skillset involves Python, Mathematics, SQL/MySQL/PostgreSQL, AWS(lambda,s3,redshift), Docker, Git, Streamlit, C++, & More
