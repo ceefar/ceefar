@@ -24,7 +24,7 @@ I'm _Courtney Farquharson_, but everyone calls me Ceefar.
 
 I've put together a load of projects in a short time, but here is are the two you should check out from my current portfolio  
   
-**NHS Wait Times**  
+### NHS Wait Times   
 <sup>[ api | data-cleaning | etl | data-analysis | async | web scraping | optimisation | mysql | python | streamlit | echarts | cicd | github-actions ]</sup>    
    
 <img src="https://github.com/ceefar/NHS_wait_times/blob/main/v2_home_concept_preview.png" width="800">  
@@ -44,14 +44,14 @@ Tool to assist patients in finding out how long wait times are from referral to 
 - Project currently undergoing v2 concept refactor, expected live Early Dec 2022
      
      
-**PyGame - Winner Winner Zombie Dinner**   
+### PyGame - *Winner Winner Zombie Dinner*    
 <sup>[ bfs | dijkstra's | graph | dequeue | vectors | pygame | profiling | ui | optimisations | software-engineering | game-dev | game-design ]</sup>     
 Actually my currently in development project, more software engineering focused to showcase a multitude of skills including front-end/ui, intermediate & advanced algorithms and data-structures, OOP, etc. Image below shows implementation of Breadth First Search (BFS) algorithm using dequeue *(currently in-development)*   
 *Note in-dev version still private while it's being finished - public repo expected early Nov 2022.*    
 <img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/pathfinding2.png" width="600">         
    
    
-**ETL Dashboard**  
+### ETL Dashboard   
 Data visualisation for Data Engineering Bootcamp Project  
 - Check it out [HERE](https://ceefar-etl-dashboard-app-insights-7xqywv.streamlitapp.com/)  
 - Be sure to have a look at the **Portfolio Mode**, which will allow you to see the live code update the dynamic queries based on the user selected inputs  
