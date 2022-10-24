@@ -1,7 +1,7 @@
 ## 👋 Hello World, I'm Ceefar  
 ### 🤓 Aspiring Jnr Data Engineer, Qualified Senior Nerd  
 
-I'm _Courtney Farquharson_, but everyone calls me Ceefar. 
+Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar. 
 
 <div>
   <img src="https://thehardgainerbible.com/wp-content/uploads/2020/02/meselect2.png" width="300"/>
