@@ -13,7 +13,7 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
 - :seedling: I'm an exceptional problem solver & adept learner, with a Mensa Graded IQ of 131 (Top 2.7%).
 - :zap: In my free time I work tirelessly on personal projects to accelerate my development as a programmer (60+ hours per week)
 - 💻 My skillset involves Python, Mathematics, SQL/MySQL/PostgreSQL, AWS(lambda,s3,redshift), Docker, Git, Streamlit, C++, & More
-- :mailbox: If you're hiring, or just want to say hi,  you can get in contact with me at rob.farq@gmail.com
+- :mailbox: If you're hiring, or just want to say hi,  you can get in contact with me at ceefarcoding@gmail.com
   
    
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ceefar&theme=calm)](https://git.io/streak-stats)
