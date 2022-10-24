@@ -26,7 +26,11 @@ I've put together a load of projects in a short time, but here is are the two yo
   
 **NHS Wait Times**  
 <sup>[ api | data-cleaning | etl | data-analysis | async | web scraping | optimisation | mysql | python | streamlit | echarts | cicd | github-actions ]</sup>    
-Tool to assist patients in finding out how long wait times are from referral to specialist appointments for all departments and hospitals in England. Project topics include   
+   
+<img src="https://github.com/ceefar/NHS_wait_times/blob/main/v2_home_concept_preview.png" width="800">  
+    
+Tool to assist patients in finding out how long wait times are from referral to specialist appointments for all departments and hospitals in England. Check out the repo for more preview images of the web app pages. Topics include...   
+  
 - Check it out Here -> [WebApp](https://ceefar-nhs.streamlitapp.com/) [(Repo)](https://github.com/ceefar/NHS_wait_times)  
 [![has-fresh-nhs-data](https://github.com/ceefar/NHS_wait_times/actions/workflows/confirm_data_or_run_etl.yml/badge.svg?event=schedule)](https://github.com/ceefar/NHS_wait_times/actions/workflows/confirm_data_or_run_etl.yml) [![create_v2_home_data](https://github.com/ceefar/NHS_wait_times/actions/workflows/create_v2_home_data.yml/badge.svg)](https://github.com/ceefar/NHS_wait_times/actions/workflows/create_v2_home_data.yml) [![create_daily_qa_data](https://github.com/ceefar/NHS_wait_times/actions/workflows/create_v2_qa_data_basic.yml/badge.svg)](https://github.com/ceefar/NHS_wait_times/actions/workflows/create_v2_qa_data_basic.yml)  
   
@@ -37,7 +41,7 @@ Tool to assist patients in finding out how long wait times are from referral to 
 - Various data analysis (using numpy, statistics, itertools, collections) and data visualisations with eCharts & Altair
 - Basic CI/CD pipeline ensures no touch operation by running the ETL daily to ensure data fresh and historical trends are accurate 
 - Additional NEW CI/CD integration includes unittesting, improved v2_concept db schema, and quality assurance on data completeness
-- Project nearing completion of discovery phase, will shortly be starting refactoring to v2_concept (take a peek in the repo!)
+- Project currently undergoing v2 concept refactor, expected live Early Dec 2022
      
      
 **PyGame - Winner Winner Zombie Dinner**   
