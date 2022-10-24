@@ -22,7 +22,7 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
 
 ### 😍 What am I up to?
 
-I've put together a load of projects in a short time, but here is are the two you should check out from my current portfolio  
+I've put together a load of projects in a short time, but here are a few to check out from my current portfolio  
   
 ### NHS Wait Times   
 <sup>[ api | data-cleaning | etl | data-analysis | async | web scraping | optimisation | mysql | python | streamlit | echarts | cicd | github-actions ]</sup>    
