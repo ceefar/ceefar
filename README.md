@@ -38,8 +38,15 @@ Tool to assist patients in finding out how long wait times are from referral to 
 - Basic CI/CD pipeline ensures no touch operation by running the ETL daily to ensure data fresh and historical trends are accurate 
 - Additional NEW CI/CD integration includes unittesting, improved v2_concept db schema, and quality assurance on data completeness
 - Project nearing completion of discovery phase, will shortly be starting refactoring to v2_concept (take a peek in the repo!)
-    
-
+     
+     
+**PyGame - Winner Winner Zombie Dinner**   
+<sup>[ bfs | dijkstra's | graph | dequeue | vectors | pygame | profiling | ui | optimisations | software-engineering | game-dev | game-design ]</sup>     
+Actually my currently in development project, more software engineering focused to showcase a multitude of skills including front-end/ui, intermediate & advanced algorithms and data-structures, OOP, etc. Image below shows implementation of Breadth First Search (BFS) algorithm using dequeue *(currently in-development)*   
+*Note in-dev version still private while it's being finished - public repo expected early Nov 2022.*    
+<img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/pathfinding2.png" width="600">         
+   
+   
 **ETL Dashboard**  
 Data visualisation for Data Engineering Bootcamp Project  
 - Check it out [HERE](https://ceefar-etl-dashboard-app-insights-7xqywv.streamlitapp.com/)  
