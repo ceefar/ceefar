@@ -28,19 +28,19 @@ I've put together a load of projects in a short time, but here are a few to chec
 <img src="https://github.com/ceefar/NHS_wait_times/blob/main/v2_home_concept_preview.png" width="800">   
 <sup>[ api | data-cleaning | etl | data-analysis | async | web scraping | optimisation | mysql | python | streamlit | echarts | cicd | github-actions ]</sup>    
   
-Tool to assist patients in finding out how long wait times are from referral to specialist appointments for all departments and hospitals in England. Check out the repo for more preview images of the web app pages. Topics include...   
+Tool to assist patients in finding out how long wait times are from referral to specialist appointments for all departments and hospitals in England. Check out the repo for more preview images of the web app pages. I've taken this down while I refactor the project, though you can still view the screenshots and features in a copy of the old readme [here](https://github.com/ceefar/NHS_Readme).
   
-- Check it out Here -> [WebApp](https://ceefar-nhs.streamlitapp.com/) [(Repo)](https://github.com/ceefar/NHS_wait_times)  
+- ETL extracts data from multiple sources including hidden NHS API and large web hosted csv's
+- Async optimised with insert perf timings of 0.5s for table with 44,616 items, and 2.2s for table with 482,783 items
+- Utilises Google Geocode & Maps APIs (+more!) 
+- Automatically maintains historical data through MySQL triggers 
+- Various data analysis (numpy, statistics, itertools, collections) 
+- Data viz with eCharts & Altair
+- CI/CD pipeline ensures no touch operation, ETL runs daily at 2am to collect fresh NHS data & update historical trends
+- Additional NEW CI/CD integration includes unittesting and quality assurance 
+
 [![has-fresh-nhs-data](https://github.com/ceefar/NHS_wait_times/actions/workflows/confirm_data_or_run_etl.yml/badge.svg?event=schedule)](https://github.com/ceefar/NHS_wait_times/actions/workflows/confirm_data_or_run_etl.yml) [![create_v2_home_data](https://github.com/ceefar/NHS_wait_times/actions/workflows/create_v2_home_data.yml/badge.svg)](https://github.com/ceefar/NHS_wait_times/actions/workflows/create_v2_home_data.yml) [![create_daily_qa_data](https://github.com/ceefar/NHS_wait_times/actions/workflows/create_v2_qa_data_basic.yml/badge.svg)](https://github.com/ceefar/NHS_wait_times/actions/workflows/create_v2_qa_data_basic.yml)  
-  
-- ETL for extracting large publicly available NHS datasets, cleaning the data, and loading it to my own hosted database
-- Optimised for speed using Asyncio, Pandas, prepared statements, & bulk inserts allows for entire ETL (extract CSV, clean dataset, insert to my web hosted db) in 0.5s for table with 44,616 items, and 2.2s for table with 482,783 items
-- Pulls live data from a *hidden* NHS API in json format, plus utilises Google Geocode & Maps APIs (+more!) 
-- Automatically maintains historical data through MySQL triggers, view back visualised trends in each departments data history 
-- Various data analysis (using numpy, statistics, itertools, collections) and data visualisations with eCharts & Altair
-- Basic CI/CD pipeline ensures no touch operation by running the ETL daily to ensure data fresh and historical trends are accurate 
-- Additional NEW CI/CD integration includes unittesting, improved v2_concept db schema, and quality assurance on data completeness
-- Project currently undergoing v2 concept refactor, expected live Early Dec 2022
+
      
      
 ### PyGame - *Winner Winner Zombie Dinner*    
