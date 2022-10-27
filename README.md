@@ -15,9 +15,6 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
 - 💻 My skillset involves Python, Mathematics, SQL/MySQL/PostgreSQL, AWS(lambda,s3,redshift), Docker, Git, Streamlit, C++, & More
 - :mailbox: If you're hiring, or just want to say hi,  you can get in contact with me at ceefarcoding@gmail.com
   
-   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ceefar&theme=calm)](https://git.io/streak-stats)
-  
 ---   
 
 ### 😍 What am I up to?
@@ -72,7 +69,10 @@ I studied game software developed at _Sheffield Hallam University_ and recently 
   
 ---
   
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ceefar&theme=calm)](https://git.io/streak-stats)  
+  
+---
+   
 <div>
   <img src="https://komarev.com/ghpvc/?username=ceefar&style=for-the-badge&color=orange" alt=""/>
   <img alt='' src='https://img.shields.io/badge/Mensa_IQ - 131-100000?style=for-the-badge&logo=&logoColor=white&labelColor=626262&color=3206AD'/>
