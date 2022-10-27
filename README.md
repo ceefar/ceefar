@@ -18,7 +18,7 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
    
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ceefar&theme=calm)](https://git.io/streak-stats)
   
-  
+---   
 
 ### 😍 What am I up to?
 
