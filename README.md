@@ -48,7 +48,7 @@ Actually my currently in development project, more software engineering focused 
   
 Images below show updated custom sprites in Lego style, plus implementation of Breadth First Search (BFS) algorithm using dequeue *(currently in-development)*   
 *Note still in-development - public repo expected late Nov 2022.*    
-<img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/customSpritesUpdate.png" width="600"> <img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/pathfinding2.png" width="600">         
+<img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/customSpritesUpdate.png" width="400"> <img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/pathfinding2.png" width="400">         
    
    
 ---
