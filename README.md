@@ -46,8 +46,9 @@ Please note I've taken this down while I refactor the project, though you can st
 <sup>[ bfs | dijkstra's | graph | dequeue | vectors | pygame | profiling | ui | optimisations | software-engineering | game-dev | game-design ]</sup>     
 Actually my currently in development project, more software engineering focused to showcase a multitude of skills including intermediate & advanced algorithms and data-structures, OOP, frontend / ui, etc.   
   
-Image below shows implementation of Breadth First Search (BFS) algorithm using dequeue *(currently in-development)*   
-*Note in-dev version still private while it's being finished - public repo expected early Nov 2022.*    
+Images below show updated custom sprites in Lego style, plus implementation of Breadth First Search (BFS) algorithm using dequeue *(currently in-development)*   
+*Note still in-development - public repo expected late Nov 2022.*    
+<img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/customSpritesUpdate.png" width="600">      
 <img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/pathfinding2.png" width="600">         
    
    
