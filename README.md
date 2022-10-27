@@ -29,7 +29,9 @@ I've put together a load of projects in a short time, but here are a few to chec
    
 <img src="https://github.com/ceefar/NHS_wait_times/blob/main/v2_home_concept_preview.png" width="800">   
   
-Tool to assist patients in finding out how long wait times are from referral to specialist appointments for all departments and hospitals in England. Check out the repo for more preview images of the web app pages. I've taken this down while I refactor the project, though you can still view the screenshots and features in a copy of the old readme [here](https://github.com/ceefar/NHS_Readme).
+Tool to assist patients in finding out how long wait times are from referral to specialist appointments for all departments and hospitals in England.  
+   
+Please note I've taken this down while I refactor the project, though you can still view the screenshots and features in a copy of the old readme [here](https://github.com/ceefar/NHS_Readme).
   
 - ETL extracts data from multiple sources including hidden NHS API and large web hosted csv's
 - Async optimised with insert perf timings of 0.5s for table with 44,616 items, and 2.2s for table with 482,783 items
