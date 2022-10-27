@@ -24,13 +24,11 @@ I've put together a load of projects in a short time, but here are a few to chec
 ### NHS Wait Times   
 <sup>[ api | data-cleaning | etl | data-analysis | async | web scraping | optimisation | mysql | python | streamlit | echarts | cicd | github-actions ]</sup>      
    
-<img src="https://github.com/ceefar/NHS_wait_times/blob/main/v2_home_concept_preview.png" width="800">   
+<img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/v2_home_concept_preview.png" width="800">   
   
 Tool to assist patients in finding out how long wait times are from referral to specialist appointments for all departments and hospitals in England.  
    
 Please note I've taken this down while I refactor the project, though you can still view the screenshots and features in a copy of the old readme [here](https://github.com/ceefar/NHS_Readme).
-
-[![has-fresh-nhs-data](https://github.com/ceefar/NHS_wait_times/actions/workflows/confirm_data_or_run_etl.yml/badge.svg?event=schedule)](https://github.com/ceefar/NHS_wait_times/actions/workflows/confirm_data_or_run_etl.yml) [![create_v2_home_data](https://github.com/ceefar/NHS_wait_times/actions/workflows/create_v2_home_data.yml/badge.svg)](https://github.com/ceefar/NHS_wait_times/actions/workflows/create_v2_home_data.yml) [![create_daily_qa_data](https://github.com/ceefar/NHS_wait_times/actions/workflows/create_v2_qa_data_basic.yml/badge.svg)](https://github.com/ceefar/NHS_wait_times/actions/workflows/create_v2_qa_data_basic.yml)  
   
 - ETL extracts data from multiple sources including hidden NHS API and large web hosted csv's
 - Async optimised with insert perf timings of 0.5s for table with 44,616 items, and 2.2s for table with 482,783 items
