@@ -51,12 +51,6 @@ Image below shows implementation of Breadth First Search (BFS) algorithm using d
 <img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/pathfinding2.png" width="600">         
    
    
-### ETL Dashboard   
-Data visualisation for Data Engineering Bootcamp Project  
-- Check it out [HERE](https://ceefar-etl-dashboard-app-insights-7xqywv.streamlitapp.com/)  
-- Be sure to have a look at the **Portfolio Mode**, which will allow you to see the live code update the dynamic queries based on the user selected inputs  
-  
-  
 ---
   
 ### :sunglasses: A bit about me  
