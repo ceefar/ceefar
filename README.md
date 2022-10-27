@@ -54,11 +54,10 @@ Image below shows implementation of Breadth First Search (BFS) algorithm using d
 ---
   
 ### :sunglasses: A bit about me  
-Find out a bit more about me, and get a sneak peek at my creative side over on my online portfolio one pager website at
+Find out a bit more about me, and get a sneak peek at my creative side over on my online portfolio one pager over at
 https://thehardgainerbible.com/cv/
 
 <img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/portfolio_hero.png" width="800">   
-
 
 ---
   
