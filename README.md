@@ -25,8 +25,9 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
 I've put together a load of projects in a short time, but here are a few to check out from my current portfolio  
   
 ### NHS Wait Times   
+<sup>[ api | data-cleaning | etl | data-analysis | async | web scraping | optimisation | mysql | python | streamlit | echarts | cicd | github-actions ]</sup>      
+   
 <img src="https://github.com/ceefar/NHS_wait_times/blob/main/v2_home_concept_preview.png" width="800">   
-<sup>[ api | data-cleaning | etl | data-analysis | async | web scraping | optimisation | mysql | python | streamlit | echarts | cicd | github-actions ]</sup>    
   
 Tool to assist patients in finding out how long wait times are from referral to specialist appointments for all departments and hospitals in England. Check out the repo for more preview images of the web app pages. I've taken this down while I refactor the project, though you can still view the screenshots and features in a copy of the old readme [here](https://github.com/ceefar/NHS_Readme).
   
