@@ -60,12 +60,10 @@ Data visualisation for Data Engineering Bootcamp Project
 ---
   
 ### :sunglasses: A bit about me  
-  
-A tireless worker, with unrivaled determination and an innate passion for learning plus all things tech, alongside being a strong communicator with a background in performing having been a member of the _National Theatre_, and have a deep understanding of business value from past entreprenureal ventures. I excel at problem solving and aquire skills at lightning speed due to my genuine joy of learning, and my absolute obsession with technology.
+Find out a bit more about me, and get a sneak peek at my creative side over on my online portfolio one pager website at
+https://thehardgainerbible.com/cv/
 
-I studied game software developed at _Sheffield Hallam University_ and recently completed the _Generation Data Engineering Bootcamp_. Since I took quite a few years away from programming after my time at University I'm looking to get back into the STEM profession in a Jnr role, though certainly wouldn't shy away from any given opportunity as I find I am at my best when I push myself to achieve my potential.
-  
-  
+
 ---
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ceefar&theme=calm)](https://git.io/streak-stats)  
