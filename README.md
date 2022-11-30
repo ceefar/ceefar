@@ -42,11 +42,11 @@ Please note I've taken this down while I refactor the project, though you can st
      
 ### PyGame - *Winner Winner Zombie Dinner*    
 <sup>[ bfs | dijkstra's | graph | dequeue | vectors | pygame | profiling | ui | optimisations | software-engineering | game-dev | game-design ]</sup>     
-Actually my currently in development project, more software engineering focused to showcase a multitude of skills including intermediate & advanced algorithms and data-structures, OOP, frontend / ui, etc.   
+Software engineering focused project I used to brush up on OOP, showcase a multitude of skills including intermediate & advanced algorithms and data-structures, OOP, frontend / ui, etc.   
   
 Images below show updated custom sprites in Lego style, plus implementation of Breadth First Search (BFS) algorithm using dequeue *(currently in-development)*   
-*Note still in-development - public repo expected late Nov 2022.*    
-<img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/customSpritesUpdate.png" width="400"> <img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/pathfinding2.png" width="400">         
+*Note halted development for more industry relevant projects - still aiming to put out a public repo in late Dec 2022.*    
+![](https://github.com/ceefar/Test_Environment/blob/master/pathinding_moderate_optimised_at_20fps_800_13s.gif)  
    
    
 ---
