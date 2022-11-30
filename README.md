@@ -46,7 +46,8 @@ Software engineering focused project I used to brush up on OOP, showcase a multi
   
 Images below show updated custom sprites in Lego style, plus implementation of Breadth First Search (BFS) algorithm using dequeue *(currently in-development)*   
 *Note halted development for more industry relevant projects - still aiming to put out a public repo in late Dec 2022.*    
-![](https://github.com/ceefar/Test_Environment/blob/master/pathinding_moderate_optimised_at_20fps_800_13s.gif)  
+![](https://github.com/ceefar/WinnerWinner_ZombieDinner_PyGame/blob/master/pathinding_optimised_at_20fps_800_13s.gif)  
+
    
    
 ---
