@@ -11,7 +11,7 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
 
 - :telescope: I aspire to break into Data Engineering, but I'm also very interested in Software Development & Data Analytics.
 - :seedling: I'm an exceptional problem solver & adept learner, with a Mensa Graded IQ of 131 (Top 2.7%).
-- :zap: In my free time I work tirelessly on personal projects to accelerate my development as a programmer (60+ hours per week)
+- :zap: In my free time I work tirelessly on personal projects to accelerate my development as a programmer (70+ hours per week)
 - 💻 My skillset involves Python, Mathematics, SQL/MySQL/PostgreSQL, AWS(lambda,s3,redshift), Docker, Git, Streamlit, C++, & More
 - :mailbox: If you're hiring, or just want to say hi,  you can get in contact with me at ceefarcoding@gmail.com
   
@@ -43,9 +43,9 @@ Please note I've taken this down while I refactor the project, though you can st
 ### PyGame - *Winner Winner Zombie Dinner*    
 <sup>[ bfs | dijkstra's | graph | dequeue | vectors | pygame | profiling | ui | optimisations | software-engineering | game-dev | game-design ]</sup>     
 Software engineering focused project I used to brush up on OOP, showcase a multitude of skills including intermediate & advanced algorithms and data-structures, OOP, frontend / ui, etc.   
-  
-Images below show updated custom sprites in Lego style, plus implementation of Breadth First Search (BFS) algorithm using dequeue *(currently in-development)*   
-*Note halted development for more industry relevant projects - still aiming to put out a public repo in late Dec 2022.*    
+   
+GIF below shows implementation of Breadth First Search (BFS) algorithm using dequeue, running in pygame mostly off CPU (not GPU) at 60 fps, plus updated custom sprites in Lego style     
+*Note halted development for more industry relevant projects - still aiming to put out a public repo in late Dec 2022.*     
 ![](https://github.com/ceefar/WinnerWinner_ZombieDinner_PyGame/blob/master/pathinding_optimised_at_20fps_800_13s.gif)  
 
    
