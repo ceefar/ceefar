@@ -16,7 +16,7 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
 - :zap: In my free time I work tirelessly on personal projects to accelerate my development as a programmer (70+ hours per week)
 - :flashlight: My *focused* strengths include : Python, SQL/MySQL, Data Processing, Mathematics, and Computer Vision & OCR   
 - :bulb: My *overall* skillset includes : C++, OOP, RDBMS, AWS, JS, CSS3, HTML5, PostGres, Docker, Git, & More!   
-- :desktop_computer: As of March 2023 I'm working on : Exploring State Machine & Decorator Design Patterns via UI Creation Project 
+- :desktop_computer: As of March 2023 I'm working on : State Machine & Decorator Design Patterns UI Project *(repo live soon)* 
 - :mailbox: If you're hiring, or just want to say hi,  you can get in contact with me at ceefarcoding@gmail.com  
 
 ---   
