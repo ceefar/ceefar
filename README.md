@@ -18,35 +18,35 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
 - :desktop_computer: As of March 2023 I'm working on : State Machine & Decorator Design Patterns UI Project *(repo live soon)* 
 - :mailbox: If you're hiring, or just want to say hi,  you can get in contact with me at ceefarcoding@gmail.com  
    
----   
-     
-### :anatomical_heart: - NHS Wait Times   
-<sup>[ api | data-cleaning | etl | data-analysis | async | web scraping | optimisation | mysql | python | streamlit | echarts | cicd | github-actions ]</sup>      
    
-<img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/v2_home_concept_preview.png" width="800">   
-
-Check out the web app on streamlit cloud @ https://ceefar-nhs.streamlit.app/
-  
-Tool to assist patients in finding out how long wait times are from referral to specialist appointments for all departments and hospitals in England.  
-   
-Please note I've taken this down while I refactor the project, though you can still view the screenshots and features in a copy of the old readme [here](https://github.com/ceefar/NHS_Readme).
-  
-- ETL extracts data from multiple sources including hidden NHS API and large web hosted csv's
-- Async optimised with insert perf timings of 0.5s for table with 44,616 items, and 2.2s for table with 482,783 items
-- Utilises Google Geocode & Maps APIs (+more!) 
-- Automatically maintains historical data through MySQL triggers 
-- Various data analysis (numpy, statistics, itertools, collections) 
-- Data viz with eCharts & Altair
-- CI/CD pipeline ensures no touch operation, ETL runs daily at 2am to collect fresh NHS data & update historical trends
-- Additional NEW CI/CD integration includes unittesting and quality assurance  
-     
----
-
 ### :floppy_disk: - Junior Portfolio Snapshot
 
 Below you'll find some of the first projects I put together back in Q4 of 2022. I'm proud to say I've learned a **LOT** since then, and expect to put out a more "mid-level" portfolio shortly, but since I haven't made any of my 2023 repos public *just* yet you can check out two of my favourites portfolio project in the below summaries.  
+     
+---    
       
-        
+### :anatomical_heart: - NHS Wait Times   
+<sup>[ api | data-cleaning | etl | data-analysis | async | web scraping | optimisation | mysql | python | streamlit | echarts | cicd | github-actions ]</sup>      
+  
+**Check out the web app on streamlit cloud @ https://ceefar-nhs.streamlit.app/ **  
+  
+<img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/v2_home_concept_preview.png" width="800">   
+   
+Tool to assist patients in finding out how long wait times are from referral to specialist appointments for all departments and hospitals in England.  
+   
+- ETL extracts data from multiple sources including hidden NHS API and large web hosted csv's
+- Async optimised with insert perf timings of 0.5s for table with 44,616 items, and 2.2s for table with 482,783 items
+- CI/CD pipeline ensures no touch operation, ETL runs daily at 2am to collect fresh NHS data & update historical trends
+- Full RDBMS with data stored on the server automatically maintaining historical tables through MySQL triggers 
+- Utilises Google Geocode & Maps APIs (+more!) 
+- Additional NEW CI/CD integration includes unittesting and quality assurance  
+- Various data analysis (numpy, statistics, itertools, collections) 
+- Data viz with eCharts & Altair  
+  
+Please note I've taken the repo down while I refactor the project, though you can still view the screenshots and features in a copy of the old readme [here](https://github.com/ceefar/NHS_Readme).  
+      
+---      
+         
 ### :zombie_man: PyGame - *Winner Winner Zombie Dinner*    
 <sup>[ bfs | dijkstra's | graph | dequeue | vectors | pygame | profiling | ui | optimisations | software-engineering | game-dev | game-design ]</sup>     
 Software engineering focused project I used to brush up on OOP, showcase a multitude of skills including intermediate & advanced algorithms and data-structures, OOP, frontend / ui, etc.   
