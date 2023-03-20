@@ -30,7 +30,7 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
 ### :anatomical_heart: - NHS Wait Times   
 <sup>[ api | data-cleaning | etl | data-analysis | async | web scraping | optimisation | mysql | python | streamlit | echarts | cicd | github-actions ]</sup>      
   
-**Check out the web app on streamlit cloud @ https://ceefar-nhs.streamlit.app/ **  
+**Check out the web app on streamlit cloud @ https://ceefar-nhs.streamlit.app/ 
   
 <img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/v2_home_concept_preview.png" width="800">   
    
