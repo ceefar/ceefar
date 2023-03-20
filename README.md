@@ -19,7 +19,7 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
 - :mailbox: If you're hiring, or just want to say hi,  you can get in contact with me at ceefarcoding@gmail.com  
    
    
-### :floppy_disk: - Junior Portfolio Snapshot
+### :floppy_disk: - Junior Portfolio
 
 - Below you'll find some of the first projects I put together back in Q4 of 2022.  
 - I'm proud to say I've learned a **LOT** since then, and expect to put out a more "mid-level" portfolio shortly.  
