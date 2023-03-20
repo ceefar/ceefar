@@ -11,19 +11,30 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
 
 ### :man_technologist: Snapshot :
 
-- :telescope: I aspire to break into Data Engineering, but I'm also very interested in Software Development & Data Analytics.
+- :telescope: I'm an aspring Software Developer with a huge passion for Data Engineering, Analytics, and Visualisation.
 - :seedling: I'm an exceptional problem solver & adept learner, with a Mensa Graded IQ of 131 (Top 2.7%).
 - :zap: In my free time I work tirelessly on personal projects to accelerate my development as a programmer (70+ hours per week)
-- 💻 My skillset involves Python, Mathematics, SQL/MySQL/PostgreSQL, AWS(lambda,s3,redshift), Docker, Git, Streamlit, C++, & More
-- :mailbox: If you're hiring, or just want to say hi,  you can get in contact with me at ceefarcoding@gmail.com
-  
+- :flashlight: My *focused* strengths include : Python, SQL/MySQL, Data Processing, Mathematics, Computer Vision & Optical Text Recognition   
+- :bulb: My *overall* skillset includes : C++, OOP, RDBMS, JS, CSS3, HTML5, PostGres, AWS(lambda,cloudformation,s3,redshift) Docker, Git, & More!   
+- :desktop_computer: As of March 2023 I'm working on : Exploring State Machine & Decorator Design Patterns via UI Creation Project 
+- :mailbox: If you're hiring, or just want to say hi,  you can get in contact with me at ceefarcoding@gmail.com  
+
 ---   
 
-### 😍 What am I up to?
+### :floppy_disk: - Junior Portfolio Snapshot
 
-I've put together a load of projects in a short time, but here are a few to check out from my current portfolio  
-  
-### NHS Wait Times   
+Below you'll find some of the first projects I put together back in Q4 of 2022. I'm proud to say I've learned a **LOT** since then, and expect to put out a mid-level portfolio shortly, but since I haven't made any of my 2023 repos public *just* yet you can check out two of my favourites portfolio project in the below summaries. 
+     
+### :zombie_man: PyGame - *Winner Winner Zombie Dinner*    
+<sup>[ bfs | dijkstra's | graph | dequeue | vectors | pygame | profiling | ui | optimisations | software-engineering | game-dev | game-design ]</sup>     
+Software engineering focused project I used to brush up on OOP, showcase a multitude of skills including intermediate & advanced algorithms and data-structures, OOP, frontend / ui, etc.   
+   
+GIF below shows implementation of Breadth First Search (BFS) algorithm using dequeue, running in pygame mostly off CPU (not GPU) at 60 fps, plus updated custom sprites in Lego style     
+*Note halted development for State Machine Design Patterns UI Project*     
+![](https://github.com/ceefar/WinnerWinner_ZombieDinner_PyGame/blob/master/pathinding_optimised_at_20fps_800_13s.gif)  
+
+
+### :anatomical_heart: - NHS Wait Times   
 <sup>[ api | data-cleaning | etl | data-analysis | async | web scraping | optimisation | mysql | python | streamlit | echarts | cicd | github-actions ]</sup>      
    
 <img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/v2_home_concept_preview.png" width="800">   
@@ -39,18 +50,8 @@ Please note I've taken this down while I refactor the project, though you can st
 - Various data analysis (numpy, statistics, itertools, collections) 
 - Data viz with eCharts & Altair
 - CI/CD pipeline ensures no touch operation, ETL runs daily at 2am to collect fresh NHS data & update historical trends
-- Additional NEW CI/CD integration includes unittesting and quality assurance 
+- Additional NEW CI/CD integration includes unittesting and quality assurance
      
-     
-### PyGame - *Winner Winner Zombie Dinner*    
-<sup>[ bfs | dijkstra's | graph | dequeue | vectors | pygame | profiling | ui | optimisations | software-engineering | game-dev | game-design ]</sup>     
-Software engineering focused project I used to brush up on OOP, showcase a multitude of skills including intermediate & advanced algorithms and data-structures, OOP, frontend / ui, etc.   
-   
-GIF below shows implementation of Breadth First Search (BFS) algorithm using dequeue, running in pygame mostly off CPU (not GPU) at 60 fps, plus updated custom sprites in Lego style     
-*Note halted development for Design Patterns OOP Project*     
-![](https://github.com/ceefar/WinnerWinner_ZombieDinner_PyGame/blob/master/pathinding_optimised_at_20fps_800_13s.gif)  
-
-   
    
 ---
   
