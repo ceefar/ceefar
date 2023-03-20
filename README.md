@@ -47,7 +47,7 @@ Please note I've taken this down while I refactor the project, though you can st
 Software engineering focused project I used to brush up on OOP, showcase a multitude of skills including intermediate & advanced algorithms and data-structures, OOP, frontend / ui, etc.   
    
 GIF below shows implementation of Breadth First Search (BFS) algorithm using dequeue, running in pygame mostly off CPU (not GPU) at 60 fps, plus updated custom sprites in Lego style     
-*Note halted development for more industry relevant projects - still aiming to put out a public repo in late Dec 2022.*     
+*Note halted development for Design Patterns OOP Project*     
 ![](https://github.com/ceefar/WinnerWinner_ZombieDinner_PyGame/blob/master/pathinding_optimised_at_20fps_800_13s.gif)  
 
    
