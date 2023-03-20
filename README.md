@@ -23,7 +23,7 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
 
 ### :floppy_disk: - Junior Portfolio Snapshot
 
-Below you'll find some of the first projects I put together back in Q4 of 2022. I'm proud to say I've learned a **LOT** since then, and expect to put out a mid-level portfolio shortly, but since I haven't made any of my 2023 repos public *just* yet you can check out two of my favourites portfolio project in the below summaries.  
+Below you'll find some of the first projects I put together back in Q4 of 2022. I'm proud to say I've learned a **LOT** since then, and expect to put out a more "mid-level" portfolio shortly, but since I haven't made any of my 2023 repos public *just* yet you can check out two of my favourites portfolio project in the below summaries.  
       
         
 ### :zombie_man: PyGame - *Winner Winner Zombie Dinner*    
