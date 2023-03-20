@@ -8,9 +8,8 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
 </div> 
 
 
-
-### :man_technologist: Snapshot :
-
+### :man_technologist: Snapshot :  
+  
 - :telescope: I'm an aspring Software Developer with huge passions for AI and Data Engineering + Analytics + Visualisation.
 - :seedling: I'm an exceptional problem solver & adept learner, with a Mensa Graded IQ of 131 (Top 2.7%).
 - :zap: In my free time I work tirelessly on personal projects to accelerate my development as a programmer (70+ hours per week)
@@ -18,8 +17,30 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
 - :bulb: My *overall* skillset includes : C++, OOP, RDBMS, AWS, JS, CSS3, HTML5, PostGres, Docker, Git, & More!   
 - :desktop_computer: As of March 2023 I'm working on : State Machine & Decorator Design Patterns UI Project *(repo live soon)* 
 - :mailbox: If you're hiring, or just want to say hi,  you can get in contact with me at ceefarcoding@gmail.com  
-
+   
 ---   
+     
+### :anatomical_heart: - NHS Wait Times   
+<sup>[ api | data-cleaning | etl | data-analysis | async | web scraping | optimisation | mysql | python | streamlit | echarts | cicd | github-actions ]</sup>      
+   
+<img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/v2_home_concept_preview.png" width="800">   
+
+Check out the web app on streamlit cloud @ https://ceefar-nhs.streamlit.app/
+  
+Tool to assist patients in finding out how long wait times are from referral to specialist appointments for all departments and hospitals in England.  
+   
+Please note I've taken this down while I refactor the project, though you can still view the screenshots and features in a copy of the old readme [here](https://github.com/ceefar/NHS_Readme).
+  
+- ETL extracts data from multiple sources including hidden NHS API and large web hosted csv's
+- Async optimised with insert perf timings of 0.5s for table with 44,616 items, and 2.2s for table with 482,783 items
+- Utilises Google Geocode & Maps APIs (+more!) 
+- Automatically maintains historical data through MySQL triggers 
+- Various data analysis (numpy, statistics, itertools, collections) 
+- Data viz with eCharts & Altair
+- CI/CD pipeline ensures no touch operation, ETL runs daily at 2am to collect fresh NHS data & update historical trends
+- Additional NEW CI/CD integration includes unittesting and quality assurance  
+     
+---
 
 ### :floppy_disk: - Junior Portfolio Snapshot
 
@@ -33,29 +54,9 @@ Software engineering focused project I used to brush up on OOP, showcase a multi
 GIF below shows implementation of Breadth First Search (BFS) algorithm using dequeue, running in pygame mostly off CPU (not GPU) at 60 fps, plus updated custom sprites in Lego style     
 *Note halted development for State Machine Design Patterns UI Project*     
 ![](https://github.com/ceefar/WinnerWinner_ZombieDinner_PyGame/blob/master/pathinding_optimised_at_20fps_800_13s.gif)  
-
-
-### :anatomical_heart: - NHS Wait Times   
-<sup>[ api | data-cleaning | etl | data-analysis | async | web scraping | optimisation | mysql | python | streamlit | echarts | cicd | github-actions ]</sup>      
-   
-<img src="https://github.com/ceefar/PyGame/blob/master/RepoImages/v2_home_concept_preview.png" width="800">   
-  
-Tool to assist patients in finding out how long wait times are from referral to specialist appointments for all departments and hospitals in England.  
-   
-Please note I've taken this down while I refactor the project, though you can still view the screenshots and features in a copy of the old readme [here](https://github.com/ceefar/NHS_Readme).
-  
-- ETL extracts data from multiple sources including hidden NHS API and large web hosted csv's
-- Async optimised with insert perf timings of 0.5s for table with 44,616 items, and 2.2s for table with 482,783 items
-- Utilises Google Geocode & Maps APIs (+more!) 
-- Automatically maintains historical data through MySQL triggers 
-- Various data analysis (numpy, statistics, itertools, collections) 
-- Data viz with eCharts & Altair
-- CI/CD pipeline ensures no touch operation, ETL runs daily at 2am to collect fresh NHS data & update historical trends
-- Additional NEW CI/CD integration includes unittesting and quality assurance
-     
-   
----
-  
+    
+---  
+    
 ### :sunglasses: A bit about me  
 Find out a bit more about me, and get a sneak peek at my creative side over on my online portfolio one pager over at
 https://www.ceefardoesthings.co.uk
