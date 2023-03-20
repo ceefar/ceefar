@@ -14,7 +14,7 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
 - :telescope: I'm an aspring Software Developer with huge passions for AI, plus Data Engineering x Analytics x Visualisation.
 - :seedling: I'm an exceptional problem solver & adept learner, with a Mensa Graded IQ of 131 (Top 2.7%).
 - :zap: In my free time I work tirelessly on personal projects to accelerate my development as a programmer (70+ hours per week)
-- :flashlight: My *focused* strengths include : Python, SQL/MySQL, Data Processing, Mathematics, and Computer Vision & OCR   
+- :flashlight: My *focused* strengths include : Python, SQL/MySQL, Data Processing, Mathematics, and Computer Vision + OCR   
 - :bulb: My *overall* skillset includes : C++, OOP, RDBMS, AWS, JS, CSS3, HTML5, PostGres, Docker, Git, & More!   
 - :desktop_computer: As of March 2023 I'm working on : State Machine & Decorator Design Patterns UI Project *(repo live soon)* 
 - :mailbox: If you're hiring, or just want to say hi,  you can get in contact with me at ceefarcoding@gmail.com  
@@ -23,8 +23,9 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
 
 ### :floppy_disk: - Junior Portfolio Snapshot
 
-Below you'll find some of the first projects I put together back in Q4 of 2022. I'm proud to say I've learned a **LOT** since then, and expect to put out a mid-level portfolio shortly, but since I haven't made any of my 2023 repos public *just* yet you can check out two of my favourites portfolio project in the below summaries. 
-     
+Below you'll find some of the first projects I put together back in Q4 of 2022. I'm proud to say I've learned a **LOT** since then, and expect to put out a mid-level portfolio shortly, but since I haven't made any of my 2023 repos public *just* yet you can check out two of my favourites portfolio project in the below summaries.  
+      
+        
 ### :zombie_man: PyGame - *Winner Winner Zombie Dinner*    
 <sup>[ bfs | dijkstra's | graph | dequeue | vectors | pygame | profiling | ui | optimisations | software-engineering | game-dev | game-design ]</sup>     
 Software engineering focused project I used to brush up on OOP, showcase a multitude of skills including intermediate & advanced algorithms and data-structures, OOP, frontend / ui, etc.   
