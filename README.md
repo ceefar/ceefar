@@ -15,7 +15,7 @@ Hi! I'm _Courtney Farquharson_... but everyone calls me Ceefar.
 - :seedling: I'm an exceptional problem solver & adept learner, with a Mensa Graded IQ of 131 (Top 2.7%).
 - :zap: In my free time I work tirelessly on personal projects to accelerate my development as a programmer (70+ hours per week)
 - :flashlight: My *focused* strengths include : Python, SQL/MySQL, Data Processing, Mathematics, Computer Vision & Optical Text Recognition   
-- :bulb: My *overall* skillset includes : C++, OOP, RDBMS, JS, CSS3, HTML5, PostGres, AWS(lambda,cloudformation,s3,redshift) Docker, Git, & More!   
+- :bulb: My *overall* skillset includes : C++, OOP, RDBMS, AWS, JS, CSS3, HTML5, PostGres, Docker, Git, & More!   
 - :desktop_computer: As of March 2023 I'm working on : Exploring State Machine & Decorator Design Patterns via UI Creation Project 
 - :mailbox: If you're hiring, or just want to say hi,  you can get in contact with me at ceefarcoding@gmail.com  
 
